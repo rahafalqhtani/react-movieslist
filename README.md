@@ -7,7 +7,8 @@
   <br>
 </h1>
 <h4 align="center">Movies App using React and Bootstrap</h4>
-<div dir="right">
+
+<div align="right">
 
 ## معلومات المتدرب
 
