@@ -6,8 +6,8 @@
   React and Bootstrap Lab
   <br>
 </h1>
-<h4 align="center">React & Bootstrap for Movies App</h4>
-<div align="right">
+<h4 align="center">Movies App using React and Bootstrap</h4>
+<div dir="right">
 
 ## معلومات المتدرب
 
