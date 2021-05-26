@@ -1,6 +1,6 @@
 {
   "name": "box-office",
-  "homepage": "http://{username}.github.io/{repo-name}",
+  "homepage": "https://younesalturkey.github.io/react-movieslist",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
