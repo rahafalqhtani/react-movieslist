@@ -8,6 +8,12 @@
 </h1>
 <h4 align="center">Movies App using React and Bootstrap</h4>
 
+## Demo
+
+<p align="center">
+  <img alt="Demo" src="https://raw.githubusercontent.com/YounesAlturkey/react-movieslist/main/demo.png">
+</p>
+
 <div align="right">
 
 ## معلومات المتدرب
